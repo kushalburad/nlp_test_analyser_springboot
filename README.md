@@ -47,11 +47,8 @@ INPUT IMAGE
 
 <img width="1168" alt="Screenshot 2023-11-11 at 7 20 10 PM" src="https://github.com/kushalburad/nlp_test_analyser_springboot/assets/53971225/997e2d26-cadc-4561-8e3d-55e728d02fdf">
 
-
 INPUT FILE IMAGE (The format of input file should match the image, python code will generate the file in the same format (output_average))
 <img width="1168" alt="Screenshot 2023-11-11 at 7 15 22 PM" src="https://github.com/kushalburad/nlp_test_analyser_springboot/assets/53971225/4d9bc34e-b01b-4710-8ad3-9d6f3d054192">
-
-
 
 OUTPUT IMAGE
 <img width="1168" alt="Screenshot 2023-11-11 at 7 20 31 PM" src="https://github.com/kushalburad/nlp_test_analyser_springboot/assets/53971225/130d07d0-e89f-44dc-8910-7bd10261c2f1">
