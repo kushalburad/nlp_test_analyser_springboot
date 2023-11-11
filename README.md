@@ -9,6 +9,13 @@ Requirements:
 Endpoint:
 URL: http://localhost:8080/text_analyser
 Method: POST
+
+IMPORTANT !!
+Make sure that en-parser-chunking.bin is in the spring boot project as shown in the image:
+
+<img width="1168" alt="Screenshot 2023-11-11 at 7 52 00 PM" src="https://github.com/kushalburad/nlp_test_analyser_springboot/assets/53971225/7863ce3e-ea22-4928-b83b-ef8a1b56cf09">
+
+
 Input:
 The HTTP request should contain:
 Text content for analysis
@@ -41,6 +48,7 @@ Ensure proper error handling, logging, and validation of input data.
 
 
 IMAGES
+
 
 INPUT IMAGE
 <img width="1168" alt="Screenshot 2023-11-11 at 7 20 22 PM" src="https://github.com/kushalburad/nlp_test_analyser_springboot/assets/53971225/aaebafa9-5da8-49b8-a784-313efd7df5b3">
