@@ -59,8 +59,7 @@ INPUT FILE IMAGE (The format of input file should match the image, python code w
 <img width="1168" alt="Screenshot 2023-11-11 at 7 15 22 PM" src="https://github.com/kushalburad/nlp_test_analyser_springboot/assets/53971225/4d9bc34e-b01b-4710-8ad3-9d6f3d054192">
 
 OUTPUT IMAGE
-<img width="1168" alt="Screenshot 2023-11-11 at 7 20 31 PM" src="https://github.com/kushalburad/nlp_test_analyser_springboot/assets/53971225/130d07d0-e89f-44dc-8910-7bd10261c2f1">
-
+<img width="1168" alt="Screenshot 2023-11-12 at 12 51 54 PM" src="https://github.com/kushalburad/nlp_test_analyser_springboot/assets/53971225/76dc7d3d-504f-4221-a39b-2f05b55e4d5f">
 
 
 
